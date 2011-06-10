@@ -1,0 +1,9 @@
+<properties>
+	<property id="id">ID</property>
+	<property id="name">Name</property>
+	<property id="GUID">Profile GUID</property>
+	<property id="category">Category </property>
+	<property id="description">Description</property>
+
+
+</properties>
